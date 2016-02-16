@@ -1,0 +1,3 @@
+[submodule "SwiftWith3rdLibDemoTry/SnapKit"]
+	path = SwiftWith3rdLibDemoTry/SnapKit
+	url = https://github.com/SnapKit/SnapKit
